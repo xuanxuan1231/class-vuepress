@@ -4,7 +4,7 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://xn--2026-y94f186ei01b.top",
+  hostname: "https://class-vuepress.vercel.app",
 
   author: {
     name: "初二三班",
