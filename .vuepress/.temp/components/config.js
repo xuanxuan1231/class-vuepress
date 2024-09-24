@@ -17,19 +17,19 @@ export default defineClientConfig({
   },
   setup: () => {
     useScriptTag(
-  `https://jsdelivr.gemen.pp.ua/npm/@fortawesome/fontawesome-free@6/js/brands.min.js`,
+  `https://jsd.may.pp.ua/npm/@fortawesome/fontawesome-free@6/js/brands.min.js`,
   () => {},
   { attrs: { "data-auto-replace-svg": "nest" } }
 );
 
     useScriptTag(
-  `https://jsdelivr.gemen.pp.ua/npm/@fortawesome/fontawesome-free@6/js/solid.min.js`,
+  `https://jsd.may.pp.ua/npm/@fortawesome/fontawesome-free@6/js/solid.min.js`,
   () => {},
   { attrs: { "data-auto-replace-svg": "nest" } }
 );
 
     useScriptTag(
-  `https://jsdelivr.gemen.pp.ua/npm/@fortawesome/fontawesome-free@6/js/fontawesome.min.js`,
+  `https://jsd.may.pp.ua/npm/@fortawesome/fontawesome-free@6/js/fontawesome.min.js`,
   () => {},
   { attrs: { "data-auto-replace-svg": "nest" } }
 );

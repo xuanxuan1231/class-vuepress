@@ -9,6 +9,8 @@ tag:
   - 圆
 star: true
 sticky: true
+sidebar: false
+draft: true
 ---
 
 # 番茄
