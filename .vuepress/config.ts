@@ -7,7 +7,7 @@ export default defineUserConfig({
 
   lang: "zh-CN",
   title: "初二三班 · 主站",
-  description: "北大附中新馨学校初二三班官方网站",
+  description: "feedId:61359350209310720+userId:58800746790506496",
 
   theme,
 
